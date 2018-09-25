@@ -35,9 +35,9 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::changing_picture.Properties.Resources.Boxer_On_White_03_400x267;
-            this.pictureBox1.Location = new System.Drawing.Point(117, 54);
+            this.pictureBox1.Location = new System.Drawing.Point(190, 61);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(100, 50);
+            this.pictureBox1.Size = new System.Drawing.Size(175, 111);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;

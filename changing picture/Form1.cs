@@ -28,7 +28,13 @@ namespace changing_picture
             {
                 pictureBox1.Image = Dog2;
             }
+        
+            else
+            { pictureBox1.Image = dog;
+
             }
+                    
+            
         }
     }
 }
